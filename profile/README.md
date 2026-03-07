@@ -1,7 +1,7 @@
 # 👋 Welcome to OpenBeavs
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=OpenBeavs&fontSize=80&animation=fadeIn" width="100%"/>
+  <img src="./Banner.png" width="100%" alt="OpenBeavs Banner"/>
 </div>
 
 Welcome to the **OpenBeavs** GitHub organization! We are an Oregon State University (OSU) CS 46X Capstone team dedicated to building accessible, intelligent tools like the **GENESIS AI Hub**.
